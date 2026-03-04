@@ -2,28 +2,14 @@
 
 A simple blue light filter for macOS that lives in your menu bar.
 
-<img width="358" height="406" alt="Screenshot 2026-03-03 at 10 38 41 AM" src="https://github.com/user-attachments/assets/9d4911e0-b462-45ad-b249-113958d6c160" />
+![logo](https://github.com/user-attachments/assets/5e6971be-fb49-4f30-a944-49a20c581bef)
+
+<img width="287" height="182" alt="Screenshot 2026-03-04 at 6 58 54 AM" src="https://github.com/user-attachments/assets/8d10bddd-c50d-413b-bb91-ce9b4a13db22" />
 
 
 ## Why
 
-f.lux used to be great — a straightforward app that warmed your screen to reduce blue light. Over the years it became bloated with automatic scheduling, location-based fading, multiple colour presets, movie modes, and more. I just wanted to toggle a warm filter on, set the intensity, and have it stay there. So I built Rorlux: the blue light filter f.lux used to be.
-
-## What It Does
-
-Click the sun icon in your menu bar. Flip the toggle on. Drag the warmth slider to where your eyes feel comfortable. That's it. No schedules, no time-of-day logic, no complexity.
-
-- **Menu bar app** — no dock icon, sits quietly in the top right
-- **On/off toggle** — instant, no fade animation
-- **Warmth slider** — from mild (6200K) to deep ember (500K)
-- **2700K preset** — one-click shortcut to the sweet spot
-- **All displays** — applies to every connected monitor
-- **Persistent** — remembers your settings between launches
-
-## Requirements
-
-- macOS 13 (Ventura) or later
-- Xcode Command Line Tools — install with `xcode-select --install`
+f.lux used to be great — a straightforward app that warmed your screen to reduce blue light. Over the years it became bloated with automatic scheduling, location-based fading, multiple colour presets, movie modes, and more. I just wanted to toggle a warm filter on, set the intensity, and have it stay there and it's so insane that you could not do that with f.lux anymore, f.lux would literally force me to change the TIME ZONE ON MY LAPTOP in order to set the color gradient i wanted, it's comical how bad products get when they keep building post PMF. So anyway, this is rorlux. Enjoy.
 
 ## Build & Install
 
